@@ -6,7 +6,8 @@ Specifically it checks all other achievements and, if they're all unlocked, will
 ## Installation Instructions
 1. Download and run [MelonLoader.Installer.exe](https://github.com/LavaGang/MelonLoader/releases/latest)
 2. Select the game executable `<steamapps folder>/common/Please Don't Touch Anything 3D/PDTA 3D.exe` to install MelonLoader
-3. Download [PDTA3D_AchievementFix.dll](https://github.com/Cyberjepp/PDTA3D_AchievementFix/releases/latest) and place into the new `Mods` folder in the game directory
+    * **NOTE:** You MAY need to change the MelonLoader version to v0.5.7 before pressing INSTALL
+3. Download [PDTA3D_AchievementFix.dll](https://github.com/ItsJepp/PDTA3D_AchievementFix/releases/latest) and place into the new `Mods` folder in the game directory
 
 ## Troubleshooting
 ### I can't run MelonLoader
